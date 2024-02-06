@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=babacarth7&label=Profile%20views&color=0e75b6&style=flat" alt="babacarth7" /> </p>
 
-# <h1 align="center">Hi 👋, I'm Babacar Thiam</h1>
-## <h3 align="center">A passionate full stack developer from Senegal</h3>
+# <p align="center">💬 Ask me about HTML, CSS, JavaScript, React, React Native, MongoDB, PostgreSQL</p>
+## <p align="center">📫 How to reach me **todos-mop-0q@icloud.com</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
