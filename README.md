@@ -22,8 +22,7 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/babacarth7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=babacarth7&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=babacarth7&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babacarth7&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=babacarth7) |
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=babacarth7&show_icons=true" alt="GitHub Stats" /></p>
-
-<p align="cleft"><img src="https://github-readme-streak-stats.herokuapp.com/?user=babacarth7" alt="GitHub Streak" /></p>
