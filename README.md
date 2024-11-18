@@ -81,7 +81,7 @@
 ---
 
 ## Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/babacar-thiam-857a3a139/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>&nbsp;
   <a href="https://instagram.com/babacarth7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>&nbsp;
   <a href="https://discord.gg/babacar_thiam"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" /></a>
@@ -91,7 +91,7 @@
 
 ## GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=babacarth7&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=babacarth7&theme=radical" alt="GitHub Streak" />
 </p>
